@@ -6,7 +6,7 @@ title: XXSim Cloud Computing Manual
 A XXSim reservoir simulation model is a .dxx file.
 Figure 1 is a model (from the SPE 1 study) that is hosted on GitHub. 
 ![Host reservoir simulation model with GitHub](https://i.postimg.cc/tT7qPZHh/Wechat-IMG2472.png "GitHub sample")
-Figure 1 Hosts a digital model using GitHub
+Figure 1 Hosting a reservoir simulation model on GitHub
 
 Also copy the URL in the browser address bar for the text input box in Figure 3, for example https://github.com/ReservoirSimulator/Case-BlackOil-Spe1 as shown in Figure 1
 
@@ -25,14 +25,14 @@ Figure 3 Cloud Computing Page
 
 Paste the URL of the model copied in step 1 into the text input box on the page, and then click Submit to start the simulation, as shown in Figure 4. [![Submit model and run](https://i.postimg.cc/pLMRLVXL/submit.png)](https://postimg.cc/ppCg0HFw)
 
-Figure 4 Paste GitHub digital model address, submit and start cloud computing
+Figure 4 Pasting reservoir simulation model address, submiting and starting cloud computing
 
 ## Step 4: View and download the results
 Once the model is submitted, you will get the feedback page shown in Figure V, and paste the results on the browser address bar for access by pasting [the results Url https://xxsimweb.azurewebsites.net/Home/Result](https://xxsimweb.azurewebsites.net/Home/Result) [![result-Addr.png](https://i.postimg.cc/N0cg0sDx/result-Addr.png)](https://postimg.cc/4YWCLTrK)
 
-Figure 5 Get a URL to view the results of the computing
+Figure 5 Getting a URL to view the results of the computing
 
- Open the URL of the results in the browser, you can see download linkages similar to Figure 6, click any link to download.
+Open the URL of the results in the browser, you can see download linkages similar to Figure 6, click any link to download.
 Each reservoir simulation model outputs 3 results, suffix LOG (running log), SMSPEC and UNSMRY (can be openned with XXSim's post-processing software or Eclipse's Office software) showing the calculation result curve. [![resultdownload.png](https://i.postimg.cc/TYkx6j5f/resultdownload.png)](https://postimg.cc/gn6QyZKT)
 
 Figure 6 Results Download Link
