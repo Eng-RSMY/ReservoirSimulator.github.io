@@ -33,6 +33,6 @@ Once the model is submitted, you will get the feedback page shown in Figure V, a
 Figure 5 Getting a URL to view the results of the computing
 
 Open the URL of the results in the browser, you can see download linkages similar to Figure 6, click any link to download.
-Each reservoir simulation model outputs 3 results, suffix LOG (running log), SMSPEC and UNSMRY (can be openned with XXSim's post-processing software or Eclipse's Office software) showing the calculation result curve. [![resultdownload.png](https://i.postimg.cc/TYkx6j5f/resultdownload.png)](https://postimg.cc/gn6QyZKT)
+Each reservoir simulation model outputs 4 files, suffix DXX (the converted XXSim format of reservoir simulation model), LOG (running log), SMSPEC and UNSMRY (can be openned with XXSim's post-processing software or Eclipse's Office software) showing the calculation result curve. [![resultdownload.png](https://i.postimg.cc/MHN2qGr1/resultdownload.png)](https://postimg.cc/n94w1nxL)
 
 Figure 6 Results Download Link
