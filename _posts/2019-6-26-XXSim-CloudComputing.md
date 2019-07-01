@@ -8,10 +8,10 @@ Figure 1 is a model (from the SPE 1 study) that is hosted on GitHub.
 ![Host reservoir simulation model with GitHub](https://i.postimg.cc/Y2x2cN3x/githubcase.png "GitHub sample")
 Figure 1 Hosting a reservoir simulation model on GitHub
 
-Also copy the URL in the browser address bar for the text input box in Figure 3, for example https://github.com/ReservoirSimulator/Case-BlackOil-Spe1 as shown in Figure 1
+Also copy the URL in the browser address bar for the text input box in Figure 3, for example https://github.com/ReservoirSimulator/Case-BlackOil-Spe2 as shown in Figure 1
 
 ## Step 2: Sign in to XXSim Cloud Computing
-[XXSim Cloud Computing Url https://xxsimweb.azurewebsites.net/](https://xxsimweb.azurewebsites.net/)
+[XXSim Cloud Computing Url www.reservoirengineering.online/](https://www.reservoirengineering.online/)
 
 Once you've opened the main page, click on the "Sign In" in the upper right corner to sign in, as shown in Figure 2. ![Hosting reservoir simulation model with GitHub](https://i.postimg.cc/3Rw69V9G/home.png "Home Page")
 
