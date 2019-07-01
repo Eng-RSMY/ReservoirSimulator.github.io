@@ -11,7 +11,7 @@ Figure 1 Hosting a reservoir simulation model on GitHub
 Also copy the URL in the browser address bar for the text input box in Figure 3, for example https://github.com/ReservoirSimulator/Case-BlackOil-EndScale as shown in Figure 1
 
 ## Step 2: Sign in to XXSim Cloud Computing
-[XXSim Cloud Computing Url www.reservoirengineering.online/](https://www.reservoirengineering.online/)
+[XXSim Cloud Computing Url https://reservoirengineering.online/](https://reservoirengineering.online/)
 
 Once you've opened the main page, click on the "Sign In" in the upper right corner to sign in, as shown in Figure 2. ![Hosting reservoir simulation model with GitHub](https://i.postimg.cc/3Rw69V9G/home.png "Home Page")
 
@@ -28,7 +28,7 @@ Paste the URL of the model copied in step 1 into the text input box on the page,
 Figure 4 Pasting reservoir simulation model address, submiting and starting cloud computing
 
 ## Step 4: View and download the results
-Once the model is submitted, you will get the feedback page shown in Figure V, and paste the results on the browser address bar for access by pasting [the results Url https://www.reservoirengineering.online/Home/Result](https://www.reservoirengineering.online/Home/Result) [![result-Addr.png](https://i.postimg.cc/N0cg0sDx/result-Addr.png)](https://postimg.cc/4YWCLTrK)
+Once the model is submitted, you will get the feedback page shown in Figure V, and paste the results on the browser address bar for access by pasting [the results Url https://reservoirengineering.online/Home/Result](https://reservoirengineering.online/Home/Result) [![result-Addr.png](https://i.postimg.cc/N0cg0sDx/result-Addr.png)](https://postimg.cc/4YWCLTrK)
 
 Figure 5 Getting a URL to view the results of the computing
 

@@ -11,7 +11,7 @@ title: XXSim 云计算简明手册
 同时复制浏览器地址栏中的网址用于图三中的文本输入框，如图一所示的 https://github.com/ReservoirSimulator/Case-BlackOil-EndScale
 
 ## 步骤2: 登录XXSim 云计算
-[XXSim云计算网址https://www.reservoirengineering.online/](https://www.reservoirengineering.online/)
+[XXSim云计算网址https://reservoirengineering.online/](https://reservoirengineering.online/)
 打开主页面后，点击右上角的"Sign In"来登录，如图二所示。
 
 ![使用GitHub托管数模模型](https://i.postimg.cc/3Rw69V9G/home.png "主页面")
@@ -29,7 +29,7 @@ title: XXSim 云计算简明手册
 图四  粘贴GitHub数模模型地址，提交并启动云计算
 
 ## 步骤4: 查看并下载计算结果
-提交模型后，会得到图五所示的反馈页面，将[计算结果网址 https://www.reservoirengineering.online/Home/Result](https://www.reservoirengineering.online/Home/Result)粘贴到浏览器地址栏进行访问，就可以查看运算的输出结果。
+提交模型后，会得到图五所示的反馈页面，将[计算结果网址 https://reservoirengineering.online/Home/Result](https://reservoirengineering.online/Home/Result)粘贴到浏览器地址栏进行访问，就可以查看运算的输出结果。
 [![result-Addr.png](https://i.postimg.cc/N0cg0sDx/result-Addr.png)](https://postimg.cc/4YWCLTrK)
 图五  得到查看运算结果的网址
 
