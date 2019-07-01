@@ -4,11 +4,11 @@ title: XXSim Cloud Computing Manual
 ---
 ## Step 1: Host the Eclipse format reservoir simulation model on GitHub; 
 A Eclipse format reservoir simulation model is a .data file.
-Figure 1 is a model (from the SPE 1 study) that is hosted on GitHub. 
+Figure 1 is a model (End Scale study) that is hosted on GitHub. 
 ![Host reservoir simulation model with GitHub](https://i.postimg.cc/Y2x2cN3x/githubcase.png "GitHub sample")
 Figure 1 Hosting a reservoir simulation model on GitHub
 
-Also copy the URL in the browser address bar for the text input box in Figure 3, for example https://github.com/ReservoirSimulator/Case-BlackOil-Spe2 as shown in Figure 1
+Also copy the URL in the browser address bar for the text input box in Figure 3, for example https://github.com/ReservoirSimulator/Case-BlackOil-EndScale as shown in Figure 1
 
 ## Step 2: Sign in to XXSim Cloud Computing
 [XXSim Cloud Computing Url www.reservoirengineering.online/](https://www.reservoirengineering.online/)

@@ -3,12 +3,12 @@ layout: post
 title: XXSim 云计算简明手册
 ---
 
-## 步骤1: 在GitHub上托管XXSim油藏数模模型；
-一个XXSim油藏数模模型就是一个.dxx文件。图一是已托管在GitHub上的模型（来自SPE 1 算例）。
+## 步骤1: 在GitHub上托管Eclipse格式的油藏数模模型；
+一个Eclipse格式的油藏数模模型就是一个.data文件。图一是已托管在GitHub上的End Scale模型。
 ![使用GitHub托管数模模型](https://i.postimg.cc/Y2x2cN3x/githubcase.png "GitHub示例")
 图一 使用GitHub托管数模模型
 
-同时复制浏览器地址栏中的网址用于图三中的文本输入框，如图一所示的 https://github.com/ReservoirSimulator/Case-BlackOil-Spe2
+同时复制浏览器地址栏中的网址用于图三中的文本输入框，如图一所示的 https://github.com/ReservoirSimulator/Case-BlackOil-EndScale
 
 ## 步骤2: 登录XXSim 云计算
 [XXSim云计算网址https://www.reservoirengineering.online/](https://www.reservoirengineering.online/)
