@@ -29,7 +29,7 @@ title: XXSim 云计算简明手册
 图四  粘贴GitHub数模模型地址，提交并启动云计算
 
 ## 步骤4: 查看并下载计算结果
-提交模型后，会得到图五所示的反馈页面，将[计算结果网址 https://xxsimweb.azurewebsites.net/Home/Result](https://xxsimweb.azurewebsites.net/Home/Result)粘贴到浏览器地址栏进行访问，就可以查看运算的输出结果。
+提交模型后，会得到图五所示的反馈页面，将[计算结果网址 https://www.reservoirengineering.online/Home/Result](https://www.reservoirengineering.online/Home/Result)粘贴到浏览器地址栏进行访问，就可以查看运算的输出结果。
 [![result-Addr.png](https://i.postimg.cc/N0cg0sDx/result-Addr.png)](https://postimg.cc/4YWCLTrK)
 图五  得到查看运算结果的网址
 

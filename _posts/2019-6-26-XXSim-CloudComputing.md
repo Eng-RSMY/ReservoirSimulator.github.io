@@ -28,7 +28,7 @@ Paste the URL of the model copied in step 1 into the text input box on the page,
 Figure 4 Pasting reservoir simulation model address, submiting and starting cloud computing
 
 ## Step 4: View and download the results
-Once the model is submitted, you will get the feedback page shown in Figure V, and paste the results on the browser address bar for access by pasting [the results Url https://xxsimweb.azurewebsites.net/Home/Result](https://xxsimweb.azurewebsites.net/Home/Result) [![result-Addr.png](https://i.postimg.cc/N0cg0sDx/result-Addr.png)](https://postimg.cc/4YWCLTrK)
+Once the model is submitted, you will get the feedback page shown in Figure V, and paste the results on the browser address bar for access by pasting [the results Url https://www.reservoirengineering.online/Home/Result](https://www.reservoirengineering.online/Home/Result) [![result-Addr.png](https://i.postimg.cc/N0cg0sDx/result-Addr.png)](https://postimg.cc/4YWCLTrK)
 
 Figure 5 Getting a URL to view the results of the computing
 
