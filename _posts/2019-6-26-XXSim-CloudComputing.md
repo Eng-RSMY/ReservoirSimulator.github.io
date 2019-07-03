@@ -13,13 +13,13 @@ Also copy the URL in the browser address bar for the text input box in Figure 3,
 ## Step 2: Sign in to XXSim Cloud Computing
 [XXSim Cloud Computing Url https://reservoirengineering.online/](https://reservoirengineering.online/)
 
-Once you've opened the main page, click on the "Sign In" in the upper right corner to sign in, as shown in Figure 2. ![Hosting reservoir simulation model with GitHub](https://i.postimg.cc/3Rw69V9G/home.png "Home Page")
+Once you've opened the main page, click on the "Sign In" in the upper right corner to sign in, as shown in Figure 2. ![Hosting reservoir simulation model with GitHub](https://i.postimg.cc/q7rQs86N/home.png "Home Page")
 
 Figure 2 XXSim Cloud Computing Home Page
 
 ## Step 3: Click on the "Cloud Computing" menu
 
-Once you're signed in, click on the menu of "Cloud Computing", and the page is shown in Figure 3. [![computing.png](https://i.postimg.cc/6QQV2XYD/computing.png)](https://postimg.cc/YvJLZJc3)
+Once you're signed in, click on the menu of "Cloud Computing", and the page is shown in Figure 3. [![computing.png](https://i.postimg.cc/k5442HMw/computing.png)](https://postimg.cc/K16FVJMg)
 
 Figure 3 Cloud Computing Page
 
@@ -28,11 +28,11 @@ Paste the URL of the model copied in step 1 into the text input box on the page,
 Figure 4 Pasting reservoir simulation model address, submiting and starting cloud computing
 
 ## Step 4: View and download the results
-Once the model is submitted, you will get the feedback page shown in Figure V, and paste the results on the browser address bar for access by pasting [the results Url https://reservoirengineering.online/Home/Result](https://reservoirengineering.online/Home/Result) [![result-Addr.png](https://i.postimg.cc/N0cg0sDx/result-Addr.png)](https://postimg.cc/4YWCLTrK)
+Once the model is submitted, you will get the feedback page shown in Figure V, and paste the results on the browser address bar for access by pasting [the results Url https://reservoirengineering.online/Home/Result](https://reservoirengineering.online/Home/Result) [![result-Addr.png](https://i.postimg.cc/Y21WKJvm/result-Addr.png)](https://postimg.cc/QVdtcYkX)
 
 Figure 5 Getting a URL to view the results of the computing
 
 Open the URL of the results in the browser, you can see download linkages similar to Figure 6, click any link to download.
-Each reservoir simulation model outputs 4 files, suffix DXX (the converted XXSim format of reservoir simulation model), LOG (running log), SMSPEC and UNSMRY (can be openned with XXSim's post-processing software or Eclipse's Office software) showing the calculation result curve. [![resultdownload.png](https://i.postimg.cc/MHN2qGr1/resultdownload.png)](https://postimg.cc/n94w1nxL)
+Each reservoir simulation model outputs 4 files, suffix DXX (the converted XXSim format of reservoir simulation model), LOG (running log), SMSPEC and UNSMRY (can be openned with XXSim's post-processing software or Eclipse's Office software) showing the calculation result curve. [![resultdownload.png](https://i.postimg.cc/7hp79khx/resultdownload.png)](https://postimg.cc/dZjLQgGX)
 
 Figure 6 Results Download Link
