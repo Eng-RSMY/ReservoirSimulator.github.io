@@ -15,13 +15,13 @@ Also copy the URL in the browser address bar for the text input box in Figure 3,
 ## Step 2: Sign in to XXSim Cloud Computing
 [XXSim Cloud Computing Url https://reservoirengineering.online/](https://reservoirengineering.online/)
 
-Once you've opened the main page, click on the "Sign In" in the upper right corner to sign in, as shown in Figure 2. ![Hosting reservoir simulation model with GitHub](https://i.postimg.cc/q7rQs86N/home.png "Home Page")
+Once you've opened the main page, click on the "Sign In" in the upper right corner to sign in, as shown in Figure 2. ![Hosting reservoir simulation model with GitHub](https://www.peclouds.com/wp-content/uploads/2019/07/home.png "Home Page")
 
 Figure 2 XXSim Cloud Computing Home Page
 
 ## Step 3: Click on the "Cloud Computing" menu
 
-Once you're signed in, click on the menu of "Cloud Computing", and the page is shown in Figure 3. [![computing.png](https://i.postimg.cc/k5442HMw/computing.png)](https://postimg.cc/K16FVJMg)
+Once you're signed in, click on the menu of "Cloud Computing", and the page is shown in Figure 3. [![computing.png](https://www.peclouds.com/wp-content/uploads/2019/07/computing.png)](https://www.peclouds.com/wp-content/uploads/2019/07/computing.png)
 
 Figure 3 Cloud Computing Page
 
@@ -35,6 +35,6 @@ Once the model is submitted, you will get the feedback page shown in Figure V, a
 Figure 5 Getting a URL to view the results of the computing
 
 Open the URL of the results in the browser, you can see download linkages similar to Figure 6, click any link to download.
-Each reservoir simulation model outputs 4 files, suffix DXX (the converted XXSim format of reservoir simulation model), LOG (running log), SMSPEC and UNSMRY (can be openned with XXSim's post-processing software or Eclipse's Office software) showing the calculation result curve. [![resultdownload.png](https://i.postimg.cc/7hp79khx/resultdownload.png)](https://postimg.cc/dZjLQgGX)
+Each reservoir simulation model outputs 4 files, suffix DXX (the converted XXSim format of reservoir simulation model), LOG (running log), SMSPEC and UNSMRY (can be openned with XXSim's post-processing software or Eclipse's Office software) showing the calculation result curve. [![resultdownload.png](https://www.peclouds.com/wp-content/uploads/2019/07/resultdownload.png)](https://www.peclouds.com/wp-content/uploads/2019/07/resultdownload.png)
 
 Figure 6 Results Download Link
