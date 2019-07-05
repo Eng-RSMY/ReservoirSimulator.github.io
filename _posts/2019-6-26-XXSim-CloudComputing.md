@@ -25,12 +25,12 @@ Once you're signed in, click on the menu of "Cloud Computing", and the page is s
 
 Figure 3 Cloud Computing Page
 
-Paste the URL of the model copied in step 1 into the text input box on the page, and then click Submit to start the simulation, as shown in Figure 4. [![Submit model and run](https://i.postimg.cc/pLMRLVXL/submit.png)](https://postimg.cc/ppCg0HFw)
+Paste the URL of the model copied in step 1 into the text input box on the page, and then click Submit to start the simulation, as shown in Figure 4. [![Submit model and run](https://www.peclouds.com/wp-content/uploads/2019/07/submit.png)](https://www.peclouds.com/wp-content/uploads/2019/07/submit.png)
 
 Figure 4 Pasting reservoir simulation model address, submiting and starting cloud computing
 
 ## Step 4: View and download the results
-Once the model is submitted, you will get the feedback page shown in Figure V, and paste the results on the browser address bar for access by pasting [the results Url https://reservoirengineering.online/Home/Result](https://reservoirengineering.online/Home/Result) [![result-Addr.png](https://www.peclouds.com/result-addr/)](https://www.peclouds.com/result-addr/)
+Once the model is submitted, you will get the feedback page shown in Figure V, and paste the results on the browser address bar for access by pasting [the results Url https://reservoirengineering.online/Home/Result](https://reservoirengineering.online/Home/Result) [![result-Addr.png](https://www.peclouds.com/wp-content/uploads/2019/07/result-Addr.png)](https://www.peclouds.com/wp-content/uploads/2019/07/result-Addr.png/)
 
 Figure 5 Getting a URL to view the results of the computing
 
