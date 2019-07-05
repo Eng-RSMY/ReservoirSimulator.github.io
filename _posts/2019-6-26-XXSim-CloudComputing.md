@@ -2,6 +2,8 @@
 layout: post
 title: XXSim Cloud Computing Manual
 ---
+![Workflow of XXSim Cloud Computing](https://www.peclouds.com/wp-content/uploads/2019/07/cloud-computing-workflow.png "Workflow")
+
 ## Step 1: Host the Eclipse format reservoir simulation model on GitHub; 
 A Eclipse format reservoir simulation model is a .data file.
 Figure 1 is a model (End Scale study) that is hosted on GitHub. 
