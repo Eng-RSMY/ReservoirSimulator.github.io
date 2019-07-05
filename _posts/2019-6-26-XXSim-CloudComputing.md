@@ -30,7 +30,7 @@ Paste the URL of the model copied in step 1 into the text input box on the page,
 Figure 4 Pasting reservoir simulation model address, submiting and starting cloud computing
 
 ## Step 4: View and download the results
-Once the model is submitted, you will get the feedback page shown in Figure V, and paste the results on the browser address bar for access by pasting [the results Url https://reservoirengineering.online/Home/Result](https://reservoirengineering.online/Home/Result) [![result-Addr.png](https://i.postimg.cc/Y21WKJvm/result-Addr.png)](https://postimg.cc/QVdtcYkX)
+Once the model is submitted, you will get the feedback page shown in Figure V, and paste the results on the browser address bar for access by pasting [the results Url https://reservoirengineering.online/Home/Result](https://reservoirengineering.online/Home/Result) [![result-Addr.png](https://www.peclouds.com/result-addr/)](https://www.peclouds.com/result-addr/)
 
 Figure 5 Getting a URL to view the results of the computing
 
