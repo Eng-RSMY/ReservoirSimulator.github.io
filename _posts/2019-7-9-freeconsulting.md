@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Try to provide free answer about reservoir simulation
+title: Provide free answer about reservoir simulation
 ---
 We would like to answer the questions about reservoir simulation, if:
 + it is only about thermal or compositional reservoir simulation, not black oil;
