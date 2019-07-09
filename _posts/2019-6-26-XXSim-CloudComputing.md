@@ -3,7 +3,7 @@ layout: post
 title: XXSim Cloud Computing Manual
 ---
 
-## **XXSim Cloud Computing Platform is free for grid number < 10K, including Thermal, Compositional and BlackOil modules.**
+## XXSim Cloud Computing Platform is free for grid number < 10K, including Thermal, Compositional and BlackOil modules.
 ---
 
 
