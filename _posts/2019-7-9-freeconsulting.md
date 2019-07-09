@@ -10,3 +10,5 @@ We would like to answer the questions about reservoir simulation, if:
 If you agree with it, please send your model and question to peclouds@hotmail.com
 
 Please be patient, because we can only use the rest time to answer questions.  
+
+![Q&A](../images/q&a.png?raw=True "Q&A")
