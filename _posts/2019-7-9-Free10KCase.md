@@ -6,3 +6,5 @@ title: Free community version of XXSim Cloud Computing Platform
 + Free
 + Including thermal, compositional and black oil modules
 + Grid number is less than 10K
+
+[XXSim Cloud Computing Url https://reservoirengineering.online/](https://www.reservoirengineering.online/)
