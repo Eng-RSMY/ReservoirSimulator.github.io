@@ -1,10 +1,10 @@
 ---
 layout: post
-title: XXSim Cloud Computing Manual
+title: XXSim Reservoir Simulation Cloud Computing Manual
 ---
 
 
-![Workflow of XXSim Cloud Computing](https://www.peclouds.com/wp-content/uploads/2019/07/cloud-computing-workflow.png "Workflow")
+![Workflow of XXSim Reservoir Simulation Cloud Computing](https://www.peclouds.com/wp-content/uploads/2019/07/cloud-computing-workflow.png "Workflow")
   
 ---
 
@@ -17,11 +17,11 @@ Figure 1 Hosting a reservoir simulation model on GitHub
 Also copy the URL in the browser address bar for the text input box in Figure 3, for example https://github.com/ReservoirSimulator/Case-BlackOil-EndScale as shown in Figure 1
 
 ## Step 2: Sign in to XXSim Cloud Computing
-[XXSim Cloud Computing Url https://reservoirengineering.online/](https://reservoirengineering.online/)
+[XXSim Reservoir Simulation Cloud Computing Url https://reservoirengineering.online/](https://reservoirengineering.online/)
 
 Once you've opened the main page, click on the "Sign In" in the upper right corner to sign in, as shown in Figure 2. ![Hosting reservoir simulation model with GitHub](https://www.peclouds.com/wp-content/uploads/2019/07/home.png "Home Page")
 
-Figure 2 XXSim Cloud Computing Home Page
+Figure 2 XXSim Reservoir Simulation Cloud Computing Home Page
 
 ## Step 3: Click on the "Cloud Computing" menu
 
