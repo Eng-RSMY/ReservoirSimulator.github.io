@@ -10,7 +10,7 @@ Our team members, who not only have developed the advanced EOS-based reservoir s
 + the model is small(the grid number is less than 10K), because we haven’t high performance computer to run large model;
 + your model and questions can be uploaded to GitHub publicly and shared with others, so that other engineers can also benefit from the discussion;
 
-If you agree with it, please send your model and questions to :email: <peclouds@hotmail.com> , we will try to give our analysis and suggestion.
+If you agree with it, please send your model and questions to :e-mail: <peclouds@hotmail.com> , we will try to give our analysis and suggestion.
 
 If you like this article, please share it in your LinkedIn and other social media with any engineer who meets problem in thermal and compositional reservoir simulation.
 
